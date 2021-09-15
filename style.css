@@ -134,14 +134,14 @@ section{
     animation: float 4s linear infinite;
 }
 
-/* @keyframes float{
+ @keyframes float{
     0%, 100%{
         transform: translateY(0rem);
     }
     50%{
         transform: translateY(-7rem);
     }
-} */
+} 
 
 .home .row .content h3{
     font-size: 6.5rem;
